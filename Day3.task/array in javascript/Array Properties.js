@@ -1,0 +1,1 @@
+// means giving information about array

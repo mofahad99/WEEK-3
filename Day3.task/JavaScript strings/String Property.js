@@ -1,0 +1,1 @@
+ // length        → How many characters are in string(Return number of characters)

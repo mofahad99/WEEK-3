@@ -1,0 +1,1 @@
+// An object method is a function inside an object.
